@@ -1,11 +1,14 @@
 # Amazon-Sales-Analysis
 Problem:
+
 An Amazon seller wants to analyze their order data to gain insights into the sales performance, customer behavior, and product returns. The seller is particularly interested in identifying trends, optimizing product offerings, and addressing any issues related to returned products.
 
 Objective:
+
 The objective is to perform a comprehensive analysis of the provided Amazon order data and extract actionable insights.
 
 Queries:
+
 1).Analyze the sales distribution across different product categories.
 2).Create a bar chart showing the top 5 sub categories.  
 3).Create the KPI for Sales and Total Profit and compare it with last year (i.e., 2016).  
